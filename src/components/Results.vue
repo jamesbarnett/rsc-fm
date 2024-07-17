@@ -71,10 +71,13 @@
     .result-score span {
       font-size: var(--fs-900);
     }
+    .result-rank {
+      font-size: var(--fs-700);
+    }
   }
   .result-rank {
     color: var(--clr-neutral-100);
-    font-size: var(--fs-700);
+    font-size: var(--fs-600);
     font-weight: var(--fw-bold);
   }
 </style>
